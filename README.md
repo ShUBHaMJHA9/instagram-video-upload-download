@@ -42,7 +42,7 @@ A Python script to **download** videos from any Instagram account and **upload**
 5. **Run the Script**:
 
     ```bash
-    python instaloader_instagrapi_script.py
+   instagram-video-upload-download.py
     ```
 
 ## 💡 Usage
