@@ -47,7 +47,7 @@ A Python script to **download** videos from any Instagram account and **upload**
 
 ## 💡 Usage
 
-1. **Update `instaloader_instagrapi_script.py`**:
+1. **Update `instagram-video-upload-download.py`**:
     - Replace placeholders in the `.env` file with your Instagram username, password, and target user ID.
 
 2. **Run the Script**:
