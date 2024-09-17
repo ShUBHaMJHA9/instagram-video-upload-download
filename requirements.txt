@@ -1,0 +1,3 @@
+instaloader 
+instagrapi 
+python-dotenv
